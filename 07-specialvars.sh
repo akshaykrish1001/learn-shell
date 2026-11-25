@@ -3,3 +3,4 @@
 ## special variable
 
 echo "all args:$@"
+echo "number:$#"
