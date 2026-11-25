@@ -11,3 +11,5 @@ echo "user:$user"
 echo "$pwd"
 echo "$home"
 echo "pid $$"
+sleep 10 &
+echo "pid :$!"
